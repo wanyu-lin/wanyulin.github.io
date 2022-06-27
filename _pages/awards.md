@@ -2,7 +2,7 @@
 layout: page
 permalink: /miscellanea/
 title: Miscellanea
-description: Selected awards
+description: Selected awards.
 nav: true
 ---
 <br>
