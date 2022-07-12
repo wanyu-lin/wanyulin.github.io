@@ -1,6 +1,6 @@
 ---
 layout: post
-inline: true
+inline: False
 date: 2022-03-02 07:59:00-0400
 ---
 
