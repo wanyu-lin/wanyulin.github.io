@@ -31,5 +31,5 @@ Wanyu enjoys reading, singing, and jogging in her leisure time. She also loves t
 <br>
 <li>Qiya Yang (Undergraduate student at Wuhan University), 06/2022-</li>
 <br>
-<li>Ziyi Zhang (Mater student at South China University of Technology）, 05/2022-</li>
+<li>Ziyi Zhang (Mater student at South China University of Technology), 05/2022-</li>
 <br>
