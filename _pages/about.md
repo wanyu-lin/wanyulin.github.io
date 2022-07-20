@@ -22,3 +22,14 @@ Wanyu enjoys reading, singing, and jogging in her leisure time. She also loves t
 <br>
 
 <p> <strong>We are looking for motivated Post-doctoral Fellows, Research Assistants, and PhD Students who are interested and experienced in machine learning and security. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU.</strong>
+<br>
+
+<p> <strong>Research Intern</strong>
+
+<ul class="square">
+<li>Mingxuan Ouyang (Master student at The Hong Kong Polytechnic University), 07/2022-</li>
+<br>
+<li>Qiya Yang (Undergraduate student at Wuhan University), 06/2022-</li>
+<br>
+<li>Ziyi Zhang (Mater student at South China University of Technology）, 05/2022-</li>
+<br>
