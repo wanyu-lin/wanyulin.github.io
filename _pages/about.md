@@ -21,7 +21,7 @@ Wanyu’s main research interest is in developing machine learning algorithms fo
 Wanyu enjoys reading, singing, and jogging in her leisure time. She also loves to visit new places, meet new friends, and explore nature.
 <br>
 
-<p> <strong>We are looking for motivated Post-doctoral Fellows, Research Assistants, and PhD Students who are interested and experienced in machine learning and security. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU.</strong>
+<p> <strong>We are looking for motivated Post-doctoral Fellows, Research Assistants, and PhD Students who are interested and experienced in responsible machine learning and graph machine learning. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU.</strong>
 <br>
 
 <p> <strong>Research Intern</strong>
