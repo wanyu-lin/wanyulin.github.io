@@ -9,7 +9,7 @@ profile:
   address: 
     <p>Department of Computing</p>
     <p>Hong Kong Polytechnic University</p>
-    <p>PQ713a, Mong Man Wai Building</p>
+    <p>PQ741, Mong Man Wai Building</p>
     <p> Hung Hom, Kowloon, Hong Kong</p>
 news: true
 social: true
