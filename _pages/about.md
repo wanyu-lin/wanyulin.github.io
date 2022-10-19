@@ -8,13 +8,13 @@ profile:
   image: wanyu.jpg
   address: 
     <p>Department of Computing</p>
-    <p>Hong Kong Polytechnic University</p>
+    <p>The Hong Kong Polytechnic University</p>
     <p>PQ741, Mong Man Wai Building</p>
     <p> Hung Hom, Kowloon, Hong Kong</p>
 news: true
 social: true
 ---
-Wanyu is a research assistant professor in the Department of Computing at the Hong Kong Polytechnic University.
+Wanyu is a research assistant professor in the Department of Computing at The Hong Kong Polytechnic University.
 
 Wanyu’s main research interest is in developing machine learning algorithms for graph-structured data. Currently, her research activities focus on model explanations for graph neural networks and trustworthy machine learning. Wanyu's methods of graph representation learning have been applied to various fields, such as computer vision and social networks.
 
