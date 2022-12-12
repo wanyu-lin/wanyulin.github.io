@@ -14,7 +14,7 @@ profile:
 news: true
 social: true
 ---
-Wanyu is a research assistant professor in the Department of Computing at The Hong Kong Polytechnic University.
+Wanyu is a research assistant professor in the Department of Computing at The Hong Kong Polytechnic University. Wanyu is serving as an Associate Editor for IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 
 Wanyu’s main research interest is in developing machine learning algorithms for graph-structured data. Currently, her research activities focus on model explanations for graph neural networks and trustworthy machine learning. Wanyu's methods of graph representation learning have been applied to various fields, such as computer vision and social networks.
 
