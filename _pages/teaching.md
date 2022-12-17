@@ -19,9 +19,10 @@ nav: true
 
 
 <p><hr>
-<strong>Courses Wanyu  in the 2021 - 2022 academic year at the Hong Kong Polytechnic University:</strong> 
-<br>COMP6434 Big Data Analytics and Artificial Intelligence
-<br>COMP1012 Programming Fundamentals and Applications
+<strong>Courses Wanyu taught in the 2021 - 2022 academic year at the Hong Kong Polytechnic University:</strong> 
+<br>
+<li>COMP6434 Big Data Analytics and Artificial Intelligence
+<li>COMP1012 Programming Fundamentals and Applications
 
 <strong>Courses Wanyu has TAed in the past at University of Toronto:</strong> 
 <br>
