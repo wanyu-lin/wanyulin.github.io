@@ -38,6 +38,6 @@ nav: true
 <p><hr>
 <strong>Selected Professional Services</strong>
 <li>Journal Editorships: Associate Editor,  <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/ieee-transactions-on-neural-networks-and-learning-systems">IEEE Transactions on Neural Networks and Learning Systems</a>, 2022 – present 
-<li>Steering Committee: ICLR 2022 Workshop on  <a href="https://pair2struct-workshop.github.io">PAIR^2Struct: Privacy, Accountability, Interpretability, Robustness, Reasoning on Structured Data</a>.
+<li>Steering Committee: ICLR 2022 Workshop on  <a href="https://pair2struct-workshop.github.io">PAIR^2Struct: Privacy, Accountability, Interpretability, Robustness, Reasoning on Structured Data</a>
 
 
