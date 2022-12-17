@@ -16,16 +16,19 @@ nav: true
 
 <p>As a teacher, her goal is to help students build the skills and the confidence they need to tackle the unknown. The world of computing is changing rapidly, and students need to be adaptable fast-learners to succeed in their careers.</p>
 <!-- teaching -->
+
+
 <p><hr>
-<strong>Courses Wanyu is TAing in the 2020 - 2021 academic year:</strong> 
-<li>ECE 244H1 Programming Fundamentals (C++)
-<li>ECE 421H1   Introduction to Machine Learning
-<br>
-<br>
+<strong>Courses Wanyu  in the 2021 - 2022 academic year at the Hong Kong Polytechnic University:</strong> 
+<br>COMP6434 Big Data Analytics and Artificial Intelligence
+<br>COMP1012 Programming Fundamentals and Applications
+
 <strong>Courses Wanyu has TAed in the past at University of Toronto:</strong> 
 <br>
+<li>ECE 421H1 Introduction to Machine Learning
+<br>Winter 2020</li>
 <li>ECE 244 Programming Fundamentals (C++) 
-<br>Fall 2017, Fall 2018, Fall 2019</li>
+<br>Fall 2017, Fall 2018, Fall 2019, Fall 2020</li>
 <li>APS 105 Computer Fundamentals (C)
 <br>Winter 2018, Winter 2019, Winter 2020, Summer 2020</li>
 <li>ECE 110 Electrical Fundamentals
