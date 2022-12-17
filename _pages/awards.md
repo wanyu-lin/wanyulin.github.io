@@ -7,7 +7,6 @@ nav: true
 ---
 <br>
 <ul class="square">
-<br><br>
 <p><hr>
 <strong>Selected Awards</strong>
 <li> CVPR 2022 Best Paper Finalist, 2022.</li>
@@ -33,7 +32,6 @@ nav: true
 
 <li><i>Self-Renewal Scholarship</i>, Huazhong University of Science and Technology, 2008 and 2009.</li>
  -->
-</ul>
 <br><br>
 <p><hr>
 <strong>Selected Professional Services</strong>
