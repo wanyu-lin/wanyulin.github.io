@@ -23,7 +23,7 @@ nav: true
 <br>
 <li>COMP6434 Big Data Analytics and Artificial Intelligence
 <li>COMP1012 Programming Fundamentals and Applications
-
+<br>
 <strong>Courses Wanyu has TAed in the past at University of Toronto:</strong> 
 <br>
 <li>ECE 421H1 Introduction to Machine Learning
