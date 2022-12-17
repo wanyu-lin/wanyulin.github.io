@@ -19,7 +19,7 @@ nav: true
 
 
 <p><hr>
-<strong>Courses Wanyu taught in the 2021 - 2022 academic year at the Hong Kong Polytechnic University:</strong> 
+<strong>Courses Wanyu has been teaching in the 2021 - 2023 academic year at the Hong Kong Polytechnic University:</strong> 
 <br>
 <li>COMP6434 Big Data Analytics and Artificial Intelligence
 <li>COMP1012 Programming Fundamentals and Applications
