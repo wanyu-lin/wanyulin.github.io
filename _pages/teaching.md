@@ -10,12 +10,13 @@ nav: true
 <!-- research -->
 <p>Wanyu loves working with students. She is lucky to have experienced firsthand the impact and significance that a mentor’s guidance and enthusiasm can have during her Ph.D. Along with research, this mentor-student relationship is one of the main reasons she is pursuing a career in academia.</p>
 
-<p>Her academic teaching experience mainly comes from serving as a TA in various courses at the ECE department. Except for TA work, she supervised two research intern students during 2018 and 2019 summer, respectively. One was a second-year undergraduate, and the other was a first-year undergraduate during the internship.</p> 
 
 <p>Being a runner for so many years, Wanyu knows the value of persistence and effort. She always encourages students to solve problems with an engineering mindset, which is not limited to solving technical challenges but can also be applied to all aspects of life. She believes that helping students build skills and confidence are equally important, especially for first-year engineering students.</p>
 
 <p>As a teacher, her goal is to help students build the skills and the confidence they need to tackle the unknown. The world of computing is changing rapidly, and students need to be adaptable fast-learners to succeed in their careers.</p>
-<!-- teaching -->
+<!-- teaching
+<p>Her academic teaching experience mainly comes from serving as a TA in various courses at the ECE department. Except for TA work, she supervised two research intern students during 2018 and 2019 summer, respectively. One was a second-year undergraduate, and the other was a first-year undergraduate during the internship.</p> 
+ -->
 
 
 <p><hr>
