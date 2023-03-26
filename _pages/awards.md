@@ -15,12 +15,13 @@ nav: true
 <li>Doctoral Completion Award, Department of ECE, University of Toronto, 2019 - 2020</li>
 <li>University of Toronto Fellowship, Department of ECE, University of Toronto, 2015 - 2019</li>
 <li>Edward S. Rogers Sr. Graduate Scholarships, University of Toronto, 2015 – 2020</li>
-<li>Master of Philosophy Studentship, Hong Kong Polytechnic University, 2012 – 2015</li>
-<li>Guan Zhigang Scholarship, Huazhong University of Science and Technology Hong Kong Alumni Association, 2014</li>
-<li>Outstanding Graduates Award, Huazhong University of Science and Technology, 2012</li>
+
 <br>
 
 <!--
+<li>Master of Philosophy Studentship, Hong Kong Polytechnic University, 2012 – 2015</li>
+<li>Guan Zhigang Scholarship, Huazhong University of Science and Technology Hong Kong Alumni Association, 2014</li>
+<li>Outstanding Graduates Award, Huazhong University of Science and Technology, 2012</li>
 <li>National Encouragement Scholarship, Huazhong University of Science and Technology, 2010 - 2011.</li>
 <br>
 <li>Outstanding Student Scholarship, Huazhong University of Science and Technology, 2010 - 2011.</li>
