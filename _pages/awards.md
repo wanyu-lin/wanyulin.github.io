@@ -12,9 +12,9 @@ nav: true
 <li> CVPR 2022 Best Paper Finalist, 2022</li>
 <li>INFOCOM Student Conference Award, IEEE Communications Society, 2020</li>
 <li>SGS Conference Grant, School of Graduate Studies, University of Toronto, 2020</li>
-<li>Doctoral Completion Award, Department of ECE, University of Toronto, 2019 - 2020</li>
-<li>University of Toronto Fellowship, Department of ECE, University of Toronto, 2015 - 2019</li>
-<li>Edward S. Rogers Sr. Graduate Scholarships, University of Toronto, 2015 – 2020</li>
+<li>Doctoral Completion Award, Department of ECE, University of Toronto</li>
+<li>University of Toronto Fellowship, Department of ECE, University of Toronto</li>
+<li>Edward S. Rogers Sr. Graduate Scholarships, University of Toronto</li>
 
 <br>
 
