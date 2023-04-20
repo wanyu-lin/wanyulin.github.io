@@ -20,10 +20,6 @@ Wanyu’s main research interest is in developing machine learning algorithms fo
 
 <br>
 
-<p> <strong>We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in responsible machine learning (interpretability, privacy, fairness, robustness, etc.), machine learning for material science. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred.</strong>
-<br>
-<br>
-
 <p> <strong>Research Team</strong>
 
 <ul class="square">
@@ -32,4 +28,8 @@ Wanyu’s main research interest is in developing machine learning algorithms fo
 <li>Mingxuan Ouyang (Incoming Ph.D. Candidate, Previously Master Student at HK PolyU)</li>
 <li>Ziyi Zhang (RA, Master student at South China University of Technology)</li>
 <li>Zehui Lin (RA, Previously Undergraduate Student at the University of Sydney)</li>
+<br>
+
+<p> <strong>We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in responsible machine learning (interpretability, privacy, fairness, robustness, etc.), machine learning for material science. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred.</strong>
+<br>
 <br>
