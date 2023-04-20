@@ -28,9 +28,9 @@ Wanyu’s main research interest is in developing machine learning algorithms fo
 <ul class="square">
 <li> Xun Zhou (Post-Doctoral Fellow, Previously Ph.D. Student at CityU)</li>
 <br>
-<li>Zhenzhong Wang (Ph.D. Student, Previously Master Student at Xiamen University)</li>
+<li>Zhenzhong Wang (Ph.D. Candidate, Previously Master Student at Xiamen University)</li>
 <br>
-<li>Mingxuan Ouyang (RA, Previously Master Student at HK PolyU)</li>
+<li>Mingxuan Ouyang (Incoming Ph.D. Candidate, Previously Master Student at HK PolyU)</li>
 <br>
 <li>Ziyi Zhang (RA, Master student at South China University of Technology)</li>
 <br>
