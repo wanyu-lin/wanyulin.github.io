@@ -5,10 +5,10 @@
     <div class="publications">
         <p style="width:100%; text-align: justify;">
             {%- for author in entry.author_array -%}
-            {%- assign author_is_self = false -%}
-            {%- if author.last == site.scholar.last_name%}
-              {%- if site.scholar.first_name contains author.first -%}
-                {%- assign author_is_self = true -%}
+              {%- assign author_is_self = false -%}
+              {%- if author.last == site.scholar.last_name or author.last == 'Lin*'-%}
+                {%- if site.scholar.first_name contains author.first -%}
+                  {%- assign author_is_self = true -%}
               {%- endif -%}
             {%- endif -%}
             {%- assign coauthor_url = nil -%}
@@ -22,23 +22,23 @@
             {%- endif -%}
             
             {%- if forloop.length == 1 -%}
-              {%- if author_is_self %}
-                {{author.last}}, {{author.first}}
+              {%- if author_is_self -%}
+              <strong>{{author.first}}, {{author.last}}</strong>
               {%- else -%}
-                {{author.last}}, {{author.first}}
+                {{author.first}}, {{author.last}}
               {%- endif -%}
             {%- else -%}
               {%- unless forloop.last -%}
-                {% if author_is_self %}
-                  {{author.last}} {{author.first}},&nbsp;
-                {%- else -%}
-                    {{author.last}} {{author.first}},&nbsp;
-                {%- endif -%}
+              {%- if author_is_self -%}
+                <strong>{{author.first}} {{author.last}}</strong>,&nbsp;
+              {%- else -%}
+              {{author.first}} {{author.last}},&nbsp;
+              {%- endif -%}
               {%- else -%}
                 {% if author_is_self -%}
-                  and {{author.last}} {{author.first}}.
+                  and <strong>{{author.first}} {{author.last}}</strong>.
                 {% else -%}
-                    and {{author.last}} {{author.first}}.
+                    and {{author.first}} {{author.last}}.
                 {%- endif -%}
               {%- endunless -%}
             {%- endif -%}

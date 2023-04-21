@@ -217,9 +217,8 @@ jekyll-archives:
 # -----------------------------------------------------------------------------
 
 scholar:
-
-  last_name: Wanyu
-  first_name: Lin
+  last_name: Lin
+  first_name: Wanyu
 
   style: apa
   locale: en
