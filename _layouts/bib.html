@@ -53,10 +53,18 @@
             {% if entry.type == "article" -%}
                 in {{entry.journal}}.
             {%- elsif entry.type == "inproceedings" -%}
-                in the {{entry.booktitle}}.
+            {%- if entry.highlights %}
+            in the {{entry.booktitle}} (<strong>{{entry.highlights}}</strong>).
+            {%- else %}
+            in the {{entry.booktitle}}.
+            {%- endif %}
+
             {%- else -%}
                 {%- capture entrytype -%}{%- endcapture -%}
             {%- endif -%}
+            
+            
+            
 
             {%- if entry.slides %}
                 {% if entry.slides contains '://' -%}
