@@ -30,6 +30,6 @@ Wanyu’s main research interest is in developing machine learning algorithms fo
 <li>Zehui Lin (RA, Previously Undergraduate Student at the University of Sydney)</li>
 <br>
 
-<p> <strong>We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in responsible machine learning (interpretability, privacy, fairness, robustness, etc.), machine learning for material science. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred.</strong>
+<p> <strong>We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in responsible machine learning (interpretability, privacy, fairness, robustness, security, etc.), machine learning for material science. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred.</strong>
 <br>
 <br>
