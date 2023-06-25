@@ -23,6 +23,7 @@ Wanyu’s main research interest is in developing machine learning algorithms fo
 <p> <strong>Research Team</strong>
 
 <ul class="square">
+<li>Jian Chen (Post-Doctoral Fellow, Previously Ph.D. at HKUST)</li>
 <li>Xun Zhou (Post-Doctoral Fellow, Previously Ph.D. at HK CityU)</li>
 <li>Zhenzhong Wang (Ph.D. Candidate, Previously Master Student at Xiamen University)</li>
 <li>Mingxuan Ouyang (Incoming Ph.D. Candidate, Previously Master Student at HK PolyU)</li>
