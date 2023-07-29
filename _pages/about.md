@@ -16,7 +16,7 @@ social: true
 ---
 Wanyu is an Assistant Professor in the Department of Computing at The Hong Kong Polytechnic University. Wanyu is serving as an Associate Editor for  <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/ieee-transactions-on-neural-networks-and-learning-systems">IEEE Transactions On Neural Networks and Learning Systems</a> (TNNLS).
 
-Wanyu’s main research interest is in developing machine learning algorithms for relational structures, complex networks, and graphs. Currently, her research activities focus on responsible graph learning, with a focus on graph neural networks, and their applications for material science.
+Wanyu’s main research interest is in developing machine learning algorithms for relational structures, complex networks, and graphs. Currently, her research activities focus on responsible graph learning and its applications that with relational reasoning and modeling.
 
 <br>
 
