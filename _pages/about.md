@@ -26,6 +26,8 @@ Wanyu’s main research interest is in developing machine learning algorithms fo
 <li>Jian Chen (Post-Doctoral Fellow, Previously Ph.D. at HUST)</li>
 <li>Zhenzhong Wang (Ph.D. Candidate, Previously Master Student at Xiamen University)</li>
 <li>Mingxuan Ouyang (Incoming Ph.D. Candidate, Previously Master Student at HK PolyU)</li>
+
+<li>Ziyi Zhang (Research Assistant, Master Student at South China University of Technology)</li>
 <br>
 
 <p> <strong>We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in graph machine learning, graph generative models. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred. </strong>
