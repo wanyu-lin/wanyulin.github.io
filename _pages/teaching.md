@@ -23,8 +23,10 @@ nav: true
 <strong>Courses Wanyu has been teaching in the 2021 - 2023 academic year at the Hong Kong Polytechnic University:</strong> 
 <br>
 <li>COMP6434 Big Data Analytics and Artificial Intelligence
+<li>COMP5511 Artificial Intelligence Concepts
 <li>COMP1012 Programming Fundamentals and Applications
 <br>
+<!--
 <strong>Courses Wanyu has TAed in the past at University of Toronto:</strong> 
 <br>
 <li>ECE 421H1 Introduction to Machine Learning
@@ -36,9 +38,10 @@ nav: true
 <li>ECE 110 Electrical Fundamentals
 <br>Winter 2016, Summer 2016, Winter 2017</li>
 <li>ECE 341 Dynamic Systems and Control
-<br>Fall 2016</li>
+ <br>Fall 2016</li>
+	
 <br>
-
+-->
 <!-- Professional service -->
 
 <!-- 
