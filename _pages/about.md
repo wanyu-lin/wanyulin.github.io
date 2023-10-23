@@ -25,7 +25,7 @@ Wanyu’s main research interest is in developing machine learning algorithms fo
 <ul class="square">
 <li>Jian Chen (Post-Doctoral Fellow, Previously Ph.D. at HUST)</li>
 <li>Zhenzhong Wang (Ph.D. Candidate, Previously Master Student at Xiamen University)</li>
-<li>Yee Chung Cheung (Doctor of FinTech Candidate)
+<li>Yee Chung Cheung (Doctor of FinTech Candidate)</li>
 <li>Mingxuan Ouyang (Incoming Ph.D. Candidate, Previously Master Student at HK PolyU)</li>
 <li>Xindi Zheng (Incoming Ph.D. Candidate, Previously Master Student at University of Southern California)</li>
 <li>Zhuoran Li (Research Assistant, Previously Undergraduate at University of Washington-Seattle)</li>
