@@ -2,7 +2,7 @@
 layout: page
 permalink: /miscellanea/
 title: Miscellanea
-description: Selected awards and professional services
+description: 
 nav: true
 ---
 <br>
@@ -17,7 +17,6 @@ nav: true
 <li>Edward S. Rogers Sr. Graduate Scholarships, University of Toronto</li>
 
 <br>
-
 <!--
 <li>Master of Philosophy Studentship, Hong Kong Polytechnic University, 2012 – 2015</li>
 <li>Guan Zhigang Scholarship, Huazhong University of Science and Technology Hong Kong Alumni Association, 2014</li>
