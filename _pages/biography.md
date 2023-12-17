@@ -13,7 +13,7 @@ nav: true
 <p>Wanyu completed her M. Phil degree from the Department of Computing in Hong Kong Polytechnic University, under the supervision of Professor <a href="https://www4.comp.polyu.edu.hk/~csjcao/">Jiannong Cao</a>. In particular, she got involved in the research projects related to structural health monitoring with wireless sensor networks, focusing on developing fast and energy-efficient computation algorithms in wireless sensor networks. Before that, Wanyu obtained her B.Engr. degree from the school of Electronic Information and Communications, Huazhong University of Science and Technology, China.</p>
 
 
-<p>Wanyu loves reading and she tries to regularity keep <a href="https://wanyu-lin.github.io/blog/posts/">diary </a>.</p>
+<p>Wanyu loves reading and thinking. And she tries to keep <a href="https://wanyu-lin.github.io/blog/posts/">diary </a>regularity.</p>
 
 <p>Wanyu has been a runner since 2013. She has completed her first half-marathon in Standard Chartered Hong Kong Marathon, 2014, and her first full marathon in Toronto ScotialBank Marathon, 2017. </p>
 
