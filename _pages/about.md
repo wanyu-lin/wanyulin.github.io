@@ -33,6 +33,6 @@ Wanyu’s main research interest is in the broad area of creating AI with safe a
 <li>Zehui Lin (Research Assistant, Previously Undergraduate Student at University of Sydney)</li>
 <br>
 
-<p> <strong>We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in trustworthy AI and generative AI. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred. </strong>
+<p> <strong>We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in AI for Science and trustworthy AI. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred. </strong>
 <br>
 <br>
