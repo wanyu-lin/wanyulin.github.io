@@ -27,10 +27,10 @@ Wanyu’s main research interest is in the broad area of creating AI with safe a
 <li>Zhenzhong Wang (Ph.D. Candidate, Previously Master Student at Xiamen University)</li>
 <li>Yee Chung Cheung (Doctor of FinTech Candidate)</li>
 <li>Mingxuan Ouyang (Ph.D. Candidate, Previously Master Student at HK PolyU)</li>
-<li>Xindi Zheng (Ph.D. Candidate, Previously Master Student at University of Southern California)</li>
+<li>Haowei Hua (Ph.D. Candidate, Previously Master Student at University of Electronic Science and Technology of China (UESTC))</li>
+<li>Jiangwen Dong (Ph.D. Candidate, Previously Undergraduate Student at Zhejiang University)</li>
 <li>Zhuoran Li (Research Assistant, Previously Undergraduate at University of Washington-Seattle)</li>
 <li>Zehui Lin (Research Assistant, Previously Undergraduate Student at University of Sydney)</li>
-<li>Ziyi Zhang (Research Assistant, Master Student at South China University of Technology)</li>
 <br>
 
 <p> <strong>We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in trustworthy AI and generative AI. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred. </strong>
