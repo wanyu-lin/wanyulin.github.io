@@ -16,7 +16,8 @@ social: true
 ---
 Wanyu is an Assistant Professor in the Department of Computing at The Hong Kong Polytechnic University. Wanyu is serving as an Associate Editor for  <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/ieee-transactions-on-neural-networks-and-learning-systems">IEEE Transactions On Neural Networks and Learning Systems</a> (TNNLS).
 
-Wanyu’s main research interest is in the broad area of creating AI with safe and ethical objectives. Specifically, we focus on interpretability, fairness, robustness, and privacy-preservation of various kinds of machine learning models, including graph learning models and large pre-trained language models. 
+Wanyu’s primary research interest is in 1) AI for science. We focus on developing machine learning (ML) techniques (GNNs, diffusion, etc.) to accelerate scientific simulations and design (applications in materials, structure safety); 2) creating AI with safe and ethical objectives. Specifically, we focus on interpretability, robustness, and privacy-preservation of machine learning models, such as large language models. 
+
 
 <br>
 
