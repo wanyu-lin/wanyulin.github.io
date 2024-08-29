@@ -30,7 +30,7 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <li>Mingxuan Ouyang (Ph.D. Candidate, Previously Master Student at HK PolyU)</li>
 <li>Haowei Hua (Ph.D. Candidate, Previously Master Student at University of Electronic Science and Technology of China (UESTC))</li>
 <li>Jiangwen Dong (Ph.D. Candidate, Previously Undergraduate Student at Zhejiang University)</li>
-<li>Zhuoran Li (Incoming Ph.D. Candidate, Previously Master Student at HK PolyU and Undergraduate at University of Washington-Seattle)</li>
+<li>Zhuoran Li (Ph.D. Candidate, Previously Master Student at HK PolyU and Undergraduate at University of Washington-Seattle)</li>
 <li>Zehui Lin (Research Assistant, Previously Undergraduate Student at University of Sydney)</li>
 <li>Minfeng Wu (Research Assistant, Previously Undergraduate Student at Xiamen University)</li>
 <li>Xu Sun (Research Assistant, Undergraduate Student at HK PolyU)</li>
