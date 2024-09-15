@@ -26,7 +26,6 @@ Wanyu’s primary research interest is in 1) AI for science. We focus on develop
 <ul class="square">
 <li>Jian Chen (Post-Doctoral Fellow, Previously Ph.D. at HUST)</li>
 <li>Zhenzhong Wang (Ph.D. Candidate, Previously Master Student at Xiamen University)</li>
-<li>Yee Chung Cheung (Doctor of FinTech Candidate)</li>
 <li>Mingxuan Ouyang (Ph.D. Candidate, Previously Master Student at HK PolyU)</li>
 <li>Haowei Hua (Ph.D. Candidate, Previously Master Student at University of Electronic Science and Technology of China (UESTC))</li>
 <li>Jiangwen Dong (Ph.D. Candidate, Previously Undergraduate Student at Zhejiang University)</li>
