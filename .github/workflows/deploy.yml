@@ -38,7 +38,7 @@ jobs:
       run: gem uninstall uri -v 0.10.1 --force
 
     - name: Install specific uri gem version
-      run: gem install uri -v 0.13.0
+      run: gem install uri 
     
     - name: Setup deploy options
       id: setup
